@@ -1,2 +1,1 @@
-madoka-magic.sunshine0.oli
-
+magicaproj.github.io
