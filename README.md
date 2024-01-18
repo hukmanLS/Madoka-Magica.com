@@ -1,1 +1,2 @@
-https://madoka-magica/sunshine0
+madoka-magic.sunshine0.oli
+
